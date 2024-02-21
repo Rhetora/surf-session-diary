@@ -7,4 +7,3 @@
 `source venv/bin/activate`
 
 `pip install {dependencies}`
-# surf-session-diary
