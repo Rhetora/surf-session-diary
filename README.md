@@ -2,8 +2,6 @@
 
 ## To initialise
 
-
-
 From terminal inside frontend
 `npm i`
 `npm run start`
