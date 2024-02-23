@@ -8,7 +8,7 @@ function DiaryEntry() {
 
   return (
 <div class="container">
-  <form>
+  <form onSubmit={handleSubmit}>
   <div class="row">
     <div class="col-25">
       <label for="sname">Spot Name</label>
